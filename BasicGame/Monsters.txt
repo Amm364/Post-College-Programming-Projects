@@ -1,0 +1,4 @@
+Zombie,An undead creature. It looks like it's ready to attack.,10,5,10,3
+Ghost,A transparent creature. It's creeping me out.,15,10,13,4
+Orc,A very large Orc. It's axe is tripping with blood.,20,15,12,7
+Wizard,A very mystical creature. They have mastered the art of dark magic.,25,5,17,6
